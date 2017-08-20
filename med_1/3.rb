@@ -16,9 +16,6 @@ def max_rotation(number)
    end
    
    number
-    
-    
-
 end
 
 
